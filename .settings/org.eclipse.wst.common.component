@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="BootstrapCAP">
+        <wb-resource deploy-path="/" source-path="/css"/>
+        <wb-resource deploy-path="/" source-path="/fonts"/>
+        <wb-resource deploy-path="/" source-path="/js"/>
+        <property name="context-root" value="BootstrapCAP"/>
+    </wb-module>
+</project-modules>
