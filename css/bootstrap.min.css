@@ -4008,7 +4008,8 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 	float: left;
 	padding: 15px 15px;
 	font-size: 18px;
-	line-height: 20px
+	line-height: 20px;
+	color: #A4C739
 }
 
 .navbar-brand:hover,.navbar-brand:focus {
