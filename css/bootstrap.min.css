@@ -670,7 +670,7 @@ pre code {
 	padding-right: 15px;
 	padding-left: 15px;
 	margin-right: auto;
-	margin-left: auto
+	margin-left: auto;
 }
 
 .container:before,.container:after {
@@ -5770,7 +5770,8 @@ button.close {
 }
 
 .carousel {
-	position: relative
+	position: relative;
+/*     height:200px */
 }
 
 .carousel-inner {
@@ -5790,6 +5791,7 @@ button.close {
 	display: block;
 	height: auto;
 	max-width: 100%;
+	margin:0px;
 	line-height: 1
 }
 
