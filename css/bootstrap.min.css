@@ -4700,7 +4700,7 @@ a.list-group-item.active>.badge,.nav-pills>.active>a>.badge {
 	font-weight: 200;
 	line-height: 2.1428571435;
 	color: inherit;
-	background-color: #eee
+	background-color: #eee;
         padding-top: 6em;
 }
 
