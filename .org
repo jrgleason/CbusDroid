@@ -1,0 +1,17 @@
+{
+  "version":"0.0.1",
+  "name":"twitter-bootstrap-stylus",
+  "description": "A stylus compiler for twitter bootstrap",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/jrgleason/CbusDroid"
+  },
+  "bugs"{
+    "email": "jackiegleason@gmail.com"
+  },
+  "dependencies": {
+    "grunt-cli":"*",
+    "grunt-stylus":"*",
+    "stylus":"*"
+  }
+}

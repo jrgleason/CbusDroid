@@ -1,0 +1,10 @@
+{
+  "version":"0.0.1",
+  "name":"twitter-bootstrap-stylus",
+  "dependencies": {
+    "grunt":"*",
+    "grunt-stylus":"*",
+    "stylus":"*",
+    "grunt-contrib":"*"
+  }
+}
