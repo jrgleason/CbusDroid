@@ -5,6 +5,7 @@
     "grunt":"*",
     "grunt-stylus":"*",
     "stylus":"*",
-    "grunt-contrib":"*"
+    "grunt-contrib":"*",
+    "grunt-contrib-internal":"*"
   }
 }
